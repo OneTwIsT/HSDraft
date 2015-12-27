@@ -1,0 +1,2 @@
+# HSDraft
+Arena draft spectator
